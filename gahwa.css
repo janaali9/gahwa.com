@@ -1,0 +1,259 @@
+@charset "UTF-8";
+.container {
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+}
+.container header {
+	width: 1024px;
+	height: 61px;
+	text-align: center;
+}
+.container nav {
+	width: 1024px;
+	border: 1px solid #000000;
+	padding-right: 0px;
+	padding-left: 0px;
+	height: 54px;
+}
+.container main {
+	width: 500px;
+	height: 220px;
+	text-align: center;
+	padding-bottom: 0px;
+	padding-left: 152px;
+	padding-top: 0px;
+	padding-right: 6px;
+}
+.container footer {
+	width: 1024px;
+	height: 54px;
+	background-color: #4BBAB6;
+	color: #FFFFFF;
+	text-decoration: none;
+	padding-left: 139px;
+	margin-left: -52px;
+	padding-top: 4px;
+}
+.container nav a {
+	text-decoration: none;
+	color: #7AC8CE;
+	padding-right: 103px;
+}
+tr td h1 {
+	text-indent: 148px;
+	font-size: 8px;
+	opacity: 0.98;
+	color: #2EAFB6;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: -181px;
+}
+.cont {
+	width: 1024px;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+}
+.cont .coffee {
+	width: 1024px;
+	font-weight: 800;
+	height: 61px;
+	text-align: center;
+}
+.cont aside {
+	color: #E99227;
+	margin-right: -309px;
+	margin-left: 768px;
+}
+.cont p {
+	font-size: 18px;
+	white-space: pre-wrap;
+	margin-top: -209px;
+	margin-left: -428px;
+	color: #20B3B1;
+	text-align: center;
+}
+.cont a {
+	color: #E99227;
+	text-align: center;
+	margin-left: 821px;
+	text-decoration: none;
+}
+.cont .foter.cont {
+	width: 1024px;
+	height: 54px;
+	background-color: #4FBBBD;
+	padding-left: 0px;
+	margin-top: 363px;
+	margin-left: -21px;
+	color: #FFFFFF;
+	text-align: left;
+}
+.cont .foter.cont p {
+	color: #FDFDFD;
+	padding-top: 16px;
+	text-align: right;
+}
+.conta {
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+}
+.conta .cof {
+	width: 1024px;
+	height: 62px;
+	text-align: center;
+}
+.conta p {
+	color: #2AB3B5;
+	font-size: 18px;
+	text-align: center;
+	margin-top: 37px;
+	height: auto;
+}
+.contai {
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+}
+.contai header {
+	width: 1024px;
+	height: 61px;
+	text-align: center;
+}
+.contai {
+	text-align: right;
+}
+.contai .c.foter {
+	width: 1024px;
+	height: 54px;
+	background-color: #2AAFB8;
+	margin-top: 287px;
+}
+.contai .c.foter p {
+	color: #FFFFFF;
+	text-align: center;
+	padding-top: 16px;
+}
+.contai p {
+	color: #2AB3B5;
+	font-size: 18px;
+	padding-left: 0px;
+	padding-right: 98px;
+	margin-top: -270px;
+	text-align: left;
+	margin-left: -55px;
+}
+.contai a {
+	color: #E99227;
+	text-decoration: none;
+	margin-right: 62px;
+}
+.contai h3 {
+	color: #2AB3B5;
+	margin-right: 208px;
+	text-align: center;
+}
+.contai video {
+	margin-right: 496px;
+}
+.contain {
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+}
+.contain .v60 {
+	width: 1024px;
+	height: 61px;
+	text-align: center;
+}
+.contain p {
+	color: #20B3B1;
+	text-align: center;
+	white-space: pre-wrap;
+	margin-top: -205px;
+	margin-left: -26px;
+	margin-right: 113px;
+}
+.contain aside {
+	text-align: right;
+}
+.contain a {
+	text-shadow: 0px 0px;
+	color: #E99227;
+	text-decoration: none;
+	margin-left: 785px;
+}
+.contain .foter.contain {
+	width: 1024px;
+	height: 54px;
+	background-color: #21B3B1;
+	color: #FFFFFF;
+	margin-top: 363px;
+	margin-left: -21px;
+}
+.contain .foter.contain p {
+	color: #FFFFFF;
+	text-align: right;
+	padding-top: 16px;
+}
+.co {
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+}
+.co .con.headr {
+	width: 1024px;
+	height: 61pt;
+	text-align: center;
+}
+.co .co.main {
+	width: 500px;
+	height: 220px;
+	margin-left: 285px;
+	text-align: center;
+	color: #ED1F23;
+}
+.co .co.main table {
+	color: #E99227;
+	text-decoration: none;
+}
+.co .c.foter {
+	width: 1024px;
+	height: 54px;
+	background-color: #33B1B3;
+	color: #FFFFFF;
+	margin-top: 161px;
+	margin-left: -21px;
+	padding-top: 8px;
+	text-align: center;
+}
+.conta footer {
+	color: #FFFFFF;
+	background-color: #2AB2B6;
+	margin-left: -21px;
+	width: 1024px;
+	height: 54px;
+}
+.conta footer p {
+	color: #FFFFFF;
+	padding-top: 16px;
+}
+
+@media (max-width:320px){
+}
+
+@media (min-width:321px) and (max-width:768px){
+}
+
+@media (min-width:769px) and (max-width:1000px){
+}
+
+@media (min-width:1001px){
+}
